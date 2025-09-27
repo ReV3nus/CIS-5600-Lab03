@@ -1,25 +1,9 @@
 # Lab 05 - Stylization!
-Let's practice adding stylization to a 3D scene using Unity's shader graph!
-
-## Introduction
-We will be stylizing a "toon" look by creating a shader in Unity that supports shadows and multiple lights in real-time! In the process, you will gain some familiarity with Unity’s shader graph.
-
-## What’s provided:
-This tutorial video will cover the base code, and then go over the process of making a limited version of a toon shader.
-
-Start by downloading Unity 2022.3.9f1
-
-[Lab Overview and Puzzle 1 Tutorial Video](https://youtu.be/jc5MLgzJong)
-         
-## Lab Puzzles:
-The goal of each puzzle will be to replicate the look of each puzzle’s image.
 
 ### 1. Puzzle 1: Simple two-tone toon shading
 
-<img width="544" alt="277997527-f27aec24-0d04-4b73-95d3-b55e2da13603" src="https://github.com/CIS-566-Fall-2023/lab05-stylization/assets/1758825/c9ae57ba-7a7f-4b03-829c-83fc35740c2f">
+<img width="2138" height="1468" alt="image" src="https://github.com/user-attachments/assets/c695a5db-89f3-4b2e-bf66-185e243883f4" />
 
-   * Follow the tutorial to create a 2 band toon shader, and then create multiple materials based off of the shader graph
-   * Attach those materials to the objects (the sphere and plane) in the default scene "Lab Scene 1" to produce a look similar to the one above!
 
 ### 2. Puzzle 2: Leveled-up toon shading
 
