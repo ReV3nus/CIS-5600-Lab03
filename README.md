@@ -7,22 +7,21 @@
 
 ### 2. Puzzle 2: Leveled-up toon shading
 
-<img width="677" alt="277998209-12d0a844-b6a8-4054-86f9-ee13b5533bf2" src="https://github.com/CIS-566-Fall-2023/lab05-stylization/assets/1758825/6b648f63-7317-40a6-96b7-d2de4405df28">
+<img width="1611" height="984" alt="image" src="https://github.com/user-attachments/assets/f7592aec-03a1-4e17-90ae-3f418ebdf72a" />
 
-   * Edit your materials to allow for a 3rd color in your scene, such that you have highlights, midtones, shadows on your objects. Edit your shader so that the thresholds on these values are adjustable.
-   * Shade the sonic and shadow receiving plane in "Lab Scene 2" to get a look similar to the one above!
 
 ### 3. Puzzle 3: Stylized Shadow
 
-<img width="436" alt="277998492-be35de1e-1157-4a6e-b4ea-ba015f2750c9" src="https://github.com/CIS-566-Fall-2023/lab05-stylization/assets/1758825/d60cb866-ea00-4f4b-8d53-c85fa1b170f6">
+<img width="1567" height="937" alt="image" src="https://github.com/user-attachments/assets/15f1b7cc-3925-42f9-9dfe-b7a4a09e3282" />
 
-   * Use one of the provided texture png’s in order to add a screenspace shadow pattern onto the shadows of the scene!
-   * Hint 1: What does the "ShadowAttenuation" variable do?
   
-Extra Credit:
- * Add some soft interpolation at the edges of your bands, for smooth transitions between color bands. Create a "smoothness" parameter that adjusts the degree of smoothness!
+### Extra Credit:
 
-# Submission:
-- Create a pull request against this repository
-- In your readme, add screenshots of your results for Puzzles 1, 2 and 3
-- Profit
+##### Smooth = 0.0
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/b790e3e1-26b8-4a12-8050-c7dae6af7e46" />
+
+##### Smooth = 0.5
+ <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/833e82ad-1bbf-4f93-996a-a84a9f047353" />
+ 
+##### Smooth = 1.0
+ <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/8e56038d-d287-494b-b435-30e1dd14c2fc" />
